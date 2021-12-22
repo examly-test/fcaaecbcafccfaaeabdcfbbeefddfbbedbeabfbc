@@ -1,0 +1,1 @@
+Regular project for java
